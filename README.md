@@ -1,3 +1,4 @@
-Project Created Using SpringBoot, JPA, Thymeleaf
-Created Employee Todo list which consist of information like Name, Email, Department.
-User can Add, Update, Delete, Search, Sort Employee details.
+Project Created Using **SpringBoot, JPA, Thymeleaf**.
+
+1) Created Employee Todo list which consist of information like Name, Email, Department.
+2) User can Add, Update, Delete, Search, Sort Employee details.
